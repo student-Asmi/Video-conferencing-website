@@ -1,0 +1,101 @@
+.LandingPageContainer{
+    width: 100vw;
+    height: 100vh;
+    background: url(./assets/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.LandingPageContainer nav{
+    padding-inline: 1.2rem;
+    padding-block: 1.6rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.LandingPageContainer nav h2{
+    font-size: 2rem;
+   
+}
+
+.LandingPageContainer nav .navlist{
+    display: flex;
+    gap: 1.6rem;
+    cursor: pointer;
+}
+
+.LandingPageBody{
+display: flex;
+padding-top: 90px;
+
+justify-content: space-evenly;
+margin: 20px;
+}
+
+.l-left{
+    font-size: 30px;
+}
+.l-left h5{
+ font-weight: 100;
+}
+.l-left .btn{
+    color: rgb(242, 248, 248);
+    background-color:rgb(225, 82, 30);
+    height: 40px;
+    width:auto;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 0 10px;
+    margin-top: 50px;
+}
+.l-left span{
+    color: coral;
+}
+.btn{
+    background-color:rgb(225, 82, 30);
+    color: rgb(242, 248, 248);
+    height: 30px;
+    width:100px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 0 10px;
+   
+}
+
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 20px;
+  text-align: center;
+
+}
+.meetContainer {
+  display: flex;
+  padding-inline: 20px;
+  height: 80vh;
+  gap: 10vw;
+  justify-content: center;
+}
+
+
+
+.leftPanel {
+  height: 100%;
+  display: flex;
+  align-items: center;
+
+}
+
+.rightPanel {
+  display: flex;
+  align-items: center;
+}
+
+.rightPanel > img {
+  width: 30vw;
+  height: auto;
+  border-radius: 20px;
+}
