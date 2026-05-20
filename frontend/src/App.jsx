@@ -2,8 +2,8 @@ import { useState } from 'react'
 
 import './App.css'
 import {Route, BrowserRouter as Router, Routes} from "react-router-dom";
-import LandingPage from './pages/landing'
-import Authentication from './pages/authentication';
+import LandingPage from './pages/Landing'
+import Authentication from './pages/Authentication';
 import { AuthProvider } from './contexts/AuthContext';
 import VideoMeetComponent from './pages/VideoMeet';
 import HomeComponent from './pages/Home';
