@@ -20,9 +20,7 @@ Build secure, low-latency video meetings with WebRTC, Socket.IO and MERN Stack.
 
 # 🌍 Live Demo
 
-> **Frontend:** https://YOUR-FRONTEND.vercel.app
-
-> **Backend:** https://YOUR-BACKEND.onrender.com
+video-conferencing-website-c7dsr9ue8-asmi-vermas-projects.vercel.app
 
 ---
 
@@ -259,26 +257,6 @@ Run Frontend
 
 ```bash
 npm run dev
-```
-
----
-
-# 🌱 Environment Variables
-
-Backend
-
-```env
-PORT=
-
-MONGODB_URI=
-
-JWT_SECRET=
-```
-
-Frontend
-
-```env
-VITE_BACKEND_URL=
 ```
 
 ---
@@ -531,37 +509,43 @@ Peer Connection
 
 ## Home Page
 
-> Add Screenshot Here
+<img width="1504" height="699" alt="image" src="https://github.com/user-attachments/assets/532546f8-8208-41b1-8f42-dd517554e7a3" />
+
 
 ---
 
 ## Join Meeting
 
-> Add Screenshot Here
+<img width="812" height="655" alt="image" src="https://github.com/user-attachments/assets/cf5b6daa-d1a5-44ba-a688-6175319b0253" />
+
 
 ---
 
 ## Video Call
 
-> Add Screenshot Here
+<img width="475" height="655" alt="image" src="https://github.com/user-attachments/assets/9b4e70ba-54f7-47e0-9559-e4e18f5869dc" />
+
 
 ---
 
 ## Live Chat
 
-> Add Screenshot Here
+<img width="1481" height="659" alt="image" src="https://github.com/user-attachments/assets/b46993ca-54a9-4f6a-8ff0-d61499c19157" />
+
 
 ---
 
 ## Screen Sharing
 
-> Add Screenshot Here
+<img width="1392" height="704" alt="image" src="https://github.com/user-attachments/assets/79cd7d0b-981f-4fc8-95a9-22e6c27b7aca" />
+
 
 ---
 
 ## Mobile Responsive View
 
-> Add Screenshot Here
+<img width="671" height="562" alt="image" src="https://github.com/user-attachments/assets/2a2a906f-65a5-4bbb-b5c1-903de52c663f" />
+
 
 ---
 
@@ -1071,17 +1055,14 @@ During this project I gained hands-on experience with:
 
 # ❌ Current Limitations
 
-- One-to-one communication only (if applicable)
+- One-to-one communication only 
 - No meeting recording
-- No authentication
-- No waiting room
 - No virtual background
 
 ---
 
 # 🚀 Planned Enhancements
 
-- Authentication with JWT
 - Google Login
 - Meeting Recording
 - AI Meeting Summary
@@ -1091,33 +1072,6 @@ During this project I gained hands-on experience with:
 - Meeting Scheduler
 - Calendar Integration
 - Breakout Rooms
-
----
-
-# 📝 Resume Description
-
-**Video Conferencing Platform**
-
-Developed a full-stack real-time video conferencing platform using React, Node.js, Express, MongoDB, Socket.IO, and WebRTC. Implemented peer-to-peer media streaming, real-time messaging, room-based communication, and responsive UI while deploying the application using Vercel and Render.
-
----
-
-# 🎯 Interview Discussion Points
-
-Be prepared to explain:
-
-- Why WebRTC instead of WebSockets?
-- What is SDP?
-- What are ICE Candidates?
-- Why is Socket.IO needed if WebRTC exists?
-- How does signaling work?
-- How would you support 1000 concurrent users?
-- How would you add recording?
-- What changes are needed for group video calls?
-- How would you scale the signaling server?
-- How would you improve reliability on poor networks?
-
----
 
 <div align="center">
 
