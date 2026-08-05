@@ -33,6 +33,49 @@ Unlike traditional CRUD applications, this project focuses on real-time networki
 The application allows users to create meeting rooms, join meetings instantly, communicate through live chat, share screens and collaborate seamlessly from anywhere.
 
 ---
+# 📸 Screenshots
+
+## Home Page
+
+<img width="1504" height="699" alt="image" src="https://github.com/user-attachments/assets/532546f8-8208-41b1-8f42-dd517554e7a3" />
+
+
+---
+
+## Join Meeting
+
+<img width="812" height="655" alt="image" src="https://github.com/user-attachments/assets/cf5b6daa-d1a5-44ba-a688-6175319b0253" />
+
+
+---
+
+## Video Call
+
+<img width="475" height="655" alt="image" src="https://github.com/user-attachments/assets/9b4e70ba-54f7-47e0-9559-e4e18f5869dc" />
+
+
+---
+
+## Live Chat
+
+<img width="1481" height="659" alt="image" src="https://github.com/user-attachments/assets/b46993ca-54a9-4f6a-8ff0-d61499c19157" />
+
+
+---
+
+## Screen Sharing
+
+<img width="1392" height="704" alt="image" src="https://github.com/user-attachments/assets/79cd7d0b-981f-4fc8-95a9-22e6c27b7aca" />
+
+
+---
+
+## Mobile Responsive View
+
+<img width="671" height="562" alt="image" src="https://github.com/user-attachments/assets/2a2a906f-65a5-4bbb-b5c1-903de52c663f" />
+
+
+---
 
 # ✨ Features
 
@@ -502,52 +545,6 @@ Peer Connection
     timestamp
 }
 ```
-
----
-
-# 📸 Screenshots
-
-## Home Page
-
-<img width="1504" height="699" alt="image" src="https://github.com/user-attachments/assets/532546f8-8208-41b1-8f42-dd517554e7a3" />
-
-
----
-
-## Join Meeting
-
-<img width="812" height="655" alt="image" src="https://github.com/user-attachments/assets/cf5b6daa-d1a5-44ba-a688-6175319b0253" />
-
-
----
-
-## Video Call
-
-<img width="475" height="655" alt="image" src="https://github.com/user-attachments/assets/9b4e70ba-54f7-47e0-9559-e4e18f5869dc" />
-
-
----
-
-## Live Chat
-
-<img width="1481" height="659" alt="image" src="https://github.com/user-attachments/assets/b46993ca-54a9-4f6a-8ff0-d61499c19157" />
-
-
----
-
-## Screen Sharing
-
-<img width="1392" height="704" alt="image" src="https://github.com/user-attachments/assets/79cd7d0b-981f-4fc8-95a9-22e6c27b7aca" />
-
-
----
-
-## Mobile Responsive View
-
-<img width="671" height="562" alt="image" src="https://github.com/user-attachments/assets/2a2a906f-65a5-4bbb-b5c1-903de52c663f" />
-
-
----
 
 # ⚡ Performance Optimizations
 
